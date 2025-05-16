@@ -3,11 +3,11 @@
 
 ## Folder Structure
 
-├── app.py                   # Streamlit app
-├── train_model.py           # Script to train your model
-├── stock_price_model.pkl    # Trained ML model (may need to retrain locally)
-├── stock_data.csv           # You must add your Excel dataset file here
-└── README.txt               # Instructions
+app.py                   # Streamlit app
+train_model.py           # Script to train your model
+stock_price_model.pkl    # Trained ML model (may need to retrain locally)
+stock_data.csv           # You must add your Excel dataset file here
+README.txt               # Instructions
 
 ## How to Run
 
@@ -27,3 +27,7 @@
 ## Notes
 - This version uses RandomForestRegressor
 - Works best with historical stock market data
+
+**Output**
+
+![Screenshot 2025-05-16 213456](https://github.com/user-attachments/assets/70dfdaba-5356-4999-bd1e-e4397009e678)
